@@ -1,0 +1,45 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 28
+/svn/RtfControlADV/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/RtfControlADV/!svn/ver/3/trunk/RtfControlADV
+END
+TestForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/RtfControlADV/!svn/ver/3/trunk/RtfControlADV/TestForm.resx
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/RtfControlADV/!svn/ver/2/trunk/RtfControlADV/app.config
+END
+PdfToRtfConverter.vb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/RtfControlADV/!svn/ver/8/trunk/RtfControlADV/PdfToRtfConverter.vb
+END
+RtfControlADV.vbproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/RtfControlADV/!svn/ver/8/trunk/RtfControlADV/RtfControlADV.vbproj
+END
+TestForm.Designer.vb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/RtfControlADV/!svn/ver/8/trunk/RtfControlADV/TestForm.Designer.vb
+END
+TestForm.vb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/RtfControlADV/!svn/ver/8/trunk/RtfControlADV/TestForm.vb
+END

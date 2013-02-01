@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/RtfControlADV/!svn/ver/8/trunk/ComponentsADV
+END
+ComponentsADV.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/RtfControlADV/!svn/ver/7/trunk/ComponentsADV/ComponentsADV.csproj
+END
+RichTextBoxBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/RtfControlADV/!svn/ver/7/trunk/ComponentsADV/RichTextBoxBase.cs
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/RtfControlADV/!svn/ver/7/trunk/ComponentsADV/app.config
+END
